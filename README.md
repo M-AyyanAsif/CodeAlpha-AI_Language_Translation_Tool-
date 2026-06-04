@@ -20,14 +20,14 @@ https://github.com/user-attachments/assets/3268d0f8-24f5-4732-9662-a34c8ee9687d
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/NARMEEN-UROOJ/language-tanslator.git
+   git clone https://github.com/M-AyyanAsif/CodeAlpha-AI_Language_Translation_Tool-.git
    cd language-tanslator
    ```
 
 2. **Create a virtual environment (Recommended):**
    ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   python -m venv myenv 
+   source  myenv\Scripts\activate
    ```
 
 3. **Install dependencies:**
@@ -54,5 +54,3 @@ python translator_ui.py
 - `deep-translator`: For reliable Google Translate API access.
 - `pyperclip`: For cross-platform clipboard support.
 
----
-Built with ❤️ by narmeen 
