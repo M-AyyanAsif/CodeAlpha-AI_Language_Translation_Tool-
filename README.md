@@ -6,7 +6,6 @@ A sleek, modern desktop application built with Python and Tkinter that provides 
 
 - **Demo Video:** Check out the application in action! 
 
-https://github.com/user-attachments/assets/3268d0f8-24f5-4732-9662-a34c8ee9687d
 
 
 - **Modern UI:** Clean, aesthetic interface with hover effects and professional color palette.
